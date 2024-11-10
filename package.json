@@ -1,0 +1,17 @@
+{
+  "name": "auto-kecilin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "Briuker-Kecilin-Login-Test"
+  },
+  "author": "Dani Adityatama",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
